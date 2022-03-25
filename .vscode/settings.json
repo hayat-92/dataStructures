@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "xiosbase": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp",
+        "string": "cpp",
+        "queue": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "xlocnum": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    }
+}
